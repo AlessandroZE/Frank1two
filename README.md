@@ -32,5 +32,6 @@
 ## Redes Sociales
 - [Instagram]( https://www.instagram.com/dark1two/)
 
-
+## Primer amigo en Git:
+Su amigo AlessandroZE presente 🥴🤑👌
 -->
